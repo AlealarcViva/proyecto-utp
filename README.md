@@ -1,6 +1,6 @@
 # Vacantes UTP
 
-Sitio web para consultar y buscar vacantes relacionadas con UTP. El proyecto está publicado mediante Firebase Hosting.
+Sitio web para consultar y buscar vacantes relacionadas con una universidad. El proyecto está publicado mediante Firebase Hosting.
 
 - **Sitio web:** https://vacantes-utp.web.app
 - **Tecnologías confirmadas:** HTML y Firebase Hosting.
